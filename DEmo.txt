@@ -3,4 +3,4 @@ WELCOME TO ATM
 CASH DEPOSIT
 CASH WITHDRAW
 balance checking
-mini statement
+pin change
